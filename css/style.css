@@ -7,5 +7,23 @@ h2{
 }
 
 body{
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+ul{
+  line-height: 50px;
+}
+
+li{
+  width: 100%;
   text-align: center;
+}
+
+.li-center{
+  text-align: center;
+}
+
+p{
+line-height: 50px;
 }
