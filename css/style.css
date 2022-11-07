@@ -1,11 +1,16 @@
 h1{
   text-align: center;
+  color: antiquewhite;
 }
 
 h2{
   text-align: center;
+  color: antiquewhite;
 }
 
 body{
   text-align: center;
+  line-height: 40px;
+  background-color: olive;
+  color: antiquewhite;
 }
