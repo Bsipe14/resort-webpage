@@ -9,6 +9,7 @@ h2{
 body{
   font-family: sans-serif;
   background-color: lightblue;
+  text-align: center;
 }
 
 ul{
@@ -17,11 +18,7 @@ ul{
 
 li{
   width: 100%;
-  text-align: center;
-}
 
-.li-center{
-  text-align: center;
 }
 
 p{
